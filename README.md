@@ -14,7 +14,7 @@
     <a href="mailto:sach18k79@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.formatfusion.dev/">
+    <a href="https://format-fusion.vercel.app/">
       <img src="https://img.shields.io/badge/Live%20Project-FormatFusion-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="FormatFusion live app" />
     </a>
   </p>
