@@ -64,7 +64,7 @@ I'm a Computer Science graduate from **Indian Institute of Information Technolog
 
 ## 🚀 Featured Projects
 
-### [FormatFusion](https://github.com/SACHIN2026/FormatFusion) · [Live Demo](https://www.formatfusion.dev/)
+### [FormatFusion](https://github.com/SACHIN2026/FormatFusion) · [Live Demo](https://format-fusion.vercel.app/)
 
 A web-based image transformation platform for converting, resizing, compressing, and editing images.
 
@@ -106,6 +106,6 @@ A machine-learning project focused on identifying potentially malicious URLs.
   <p>
     <a href="https://github.com/SACHIN2026">GitHub</a> ·
     <a href="mailto:sach18k79@gmail.com">Email</a> ·
-    <a href="https://www.formatfusion.dev/">FormatFusion</a>
+    <a href="https://format-fusion.vercel.app/">FormatFusion</a>
   </p>
 </div>
