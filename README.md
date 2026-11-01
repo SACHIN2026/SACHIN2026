@@ -1,21 +1,111 @@
-# 💫 About Me:
-🔭 I’m currently working on an ecommerce project<br>👯 I’m looking to collaborate on open source<br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning backend development<br>💬 Ask me about <br>⚡ Fun fact  
+<!-- Profile README for github.com/SACHIN2026 -->
 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SACHIN2026&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SACHIN2026&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SACHIN2026&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SACHIN2026&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+  <h1>Hey, I'm Sachin 👋</h1>
+  <p>
+    <a href="https://readme-typing-svg.demolab.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Full-Stack+%26+Backend+Developer;Building+reliable+web+products;Exploring+cloud%2C+AI+%26+system+design" alt="Typing animation: Full-Stack and Backend Developer; Building reliable web products; Exploring cloud, AI and system design" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/SACHIN2026">
+      <img src="https://img.shields.io/badge/GitHub-SACHIN2026-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    </a>
+    <a href="mailto:sach18k79@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.formatfusion.dev/">
+      <img src="https://img.shields.io/badge/Live%20Project-FormatFusion-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="FormatFusion live app" />
+    </a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SACHIN2026&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a Computer Science graduate from **Indian Institute of Information Technology, Kottayam**, with a specialization in **Cyber Security**. I enjoy building full-stack products and dependable backend services, especially where performance, reliability, and a thoughtful user experience matter.
+
+- 🔭 Currently building an **e-commerce project** and exploring backend architecture.
+- 💼 Former **Software Development Engineer Intern at Scaler** (Jan–Jul 2026).
+- 🌱 Deepening my skills in backend engineering, system design, and cloud infrastructure.
+- 🤝 Open to collaborating on meaningful **open-source** projects.
+- 💬 Ask me about **React, Next.js, Node.js, FastAPI, REST APIs, MongoDB, payment integrations, and cloud deployment**.
+- ⚡ Fun fact: My projects span AI-assisted writing, image transformation, and machine-learning-based phishing detection.
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,bash,react,nextjs,redux,nodejs,express,mongodb,mysql,tailwind,bootstrap,docker,git,github,gcp,azure,aws,linux,vercel&perline=8" alt="Technology icons" />
+  </a>
+</p>
+
+| Area | Technologies |
+|---|---|
+| **Languages** | C, C++, Python, JavaScript, TypeScript, Bash |
+| **Frontend** | React, Next.js, Redux, React Hook Form, React Router, Tailwind CSS, Bootstrap, DaisyUI |
+| **Backend** | Node.js, Express.js, FastAPI, REST APIs |
+| **Databases** | MongoDB, MySQL |
+| **Cloud & DevOps** | Google Cloud (Compute Engine, Cloud Storage), Azure (App Service, Blob Storage), AWS, Docker, CI/CD, Linux, Git |
+| **AI & Data** | LLM integration, prompt engineering, scikit-learn, Pandas, NumPy |
+
+## 💼 Experience
+
+### Software Development Engineer Intern · Scaler
+
+*January 2026 – July 2026*
+
+- Built and shipped production backend features using **Next.js** and **FastAPI**.
+- Improved payment-workflow resilience with retry handling and exponential backoff.
+- Strengthened production observability through structured logging and request tracing, making issues faster to diagnose.
+- Worked on API performance through profiling, caching, and query optimization.
+- Contributed to code reviews and shared engineering standards for reliability, readability, and performance.
+
+## 🚀 Featured Projects
+
+### [FormatFusion](https://github.com/SACHIN2026/FormatFusion) · [Live Demo](https://www.formatfusion.dev/)
+
+A web-based image transformation platform for converting, resizing, compressing, and editing images.
+
+- Built with **Next.js, TypeScript, MongoDB, NextAuth, and Tailwind CSS**.
+- Includes image conversion and editing workflows, with background removal and optional upscaling documented in the project.
+- Integrated **Razorpay** for payments and designed retry handling for network failures.
+- Deployed using **Azure App Service and Blob Storage**, with Azure Monitor for request observability and error alerting.
+
+### [InkSpire](https://github.com/SACHIN2026/InkSpire) · [Live Demo](https://ink-spire-lac.vercel.app/)
+
+A full-stack blogging platform with AI-powered writing assistance and blog-management features.
+
+- Built with **React, Express, MongoDB, JWT, Redux Toolkit, and Tailwind CSS**.
+- Integrates an LLM to suggest blog titles, outlines, and summaries.
+- Uses retry logic and graceful degradation to handle third-party AI service latency.
+- Deployed on **Google Cloud Compute Engine and Cloud Storage**, with Cloud Monitoring dashboards.
+- Implemented secure authentication flows, including token refresh.
+
+### Phishing URL Detection · PhishGuard
+
+A machine-learning project focused on identifying potentially malicious URLs.
+
+- Trained a **Logistic Regression** classifier using feature engineering and exploratory data analysis.
+- Used **Python, scikit-learn, and Pandas** to build and evaluate the detection workflow.
+- Research paper: **“PhishGuard: Intelligent Phishing URL Detection Using Machine Learning”**, published at **ICCCNT 2025**.
+
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="180" src="https://ghstats.dev/api/card?username=SACHIN2026&theme=tokyonight&hide_border=true" alt="Sachin's GitHub statistics" />
+  <img height="180" src="https://streak-stats.demolab.com?user=SACHIN2026&theme=tokyonight&hide_border=true" alt="Sachin's GitHub contribution streak" />
+</p>
+
+---
+
+<div align="center">
+  <p><b>Thanks for stopping by! Let's build something useful. ✨</b></p>
+  <p>
+    <a href="https://github.com/SACHIN2026">GitHub</a> ·
+    <a href="mailto:sach18k79@gmail.com">Email</a> ·
+    <a href="https://www.formatfusion.dev/">FormatFusion</a>
+  </p>
+</div>
